@@ -1,2 +1,2 @@
-# Hidden-Messages-For-Crush
+# Hidden-Messages
 Hidden Messages For Crush
