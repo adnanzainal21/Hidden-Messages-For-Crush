@@ -1,4 +1,4 @@
 # Hidden-Messages
 Hidden Messages For Crush
 <br>
-no crush only crassh
+no crush only crash
